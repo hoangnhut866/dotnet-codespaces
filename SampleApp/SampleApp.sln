@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "..\SD20301\Buoi 8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\SD20301\Buoi 9\ConsoleApp1\ConsoleApp1.csproj", "{959DDB0A-E958-43D3-81CE-B1EE6DC3A083}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleEvents", "..\SD20301\Event\HandleEvents\HandleEvents.csproj", "{2E337B49-30D1-44F7-9D45-6F68B627FD97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{959DDB0A-E958-43D3-81CE-B1EE6DC3A083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{959DDB0A-E958-43D3-81CE-B1EE6DC3A083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{959DDB0A-E958-43D3-81CE-B1EE6DC3A083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E337B49-30D1-44F7-9D45-6F68B627FD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E337B49-30D1-44F7-9D45-6F68B627FD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E337B49-30D1-44F7-9D45-6F68B627FD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E337B49-30D1-44F7-9D45-6F68B627FD97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
