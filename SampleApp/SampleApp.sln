@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\SD20301\B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleEvents", "..\SD20301\Event\HandleEvents\HandleEvents.csproj", "{2E337B49-30D1-44F7-9D45-6F68B627FD97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "null-conditional", "..\SD20301\Null-conditionalOperator\null-conditional\null-conditional.csproj", "{136E41FA-D43E-46EC-8A99-27003391410E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi9", "..\SD20301\Inheritance\Buoi9\Buoi9.csproj", "{5B6A5298-C4D2-45B5-B8A6-3F8F313CED2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{2E337B49-30D1-44F7-9D45-6F68B627FD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E337B49-30D1-44F7-9D45-6F68B627FD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E337B49-30D1-44F7-9D45-6F68B627FD97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136E41FA-D43E-46EC-8A99-27003391410E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136E41FA-D43E-46EC-8A99-27003391410E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136E41FA-D43E-46EC-8A99-27003391410E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136E41FA-D43E-46EC-8A99-27003391410E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6A5298-C4D2-45B5-B8A6-3F8F313CED2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6A5298-C4D2-45B5-B8A6-3F8F313CED2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6A5298-C4D2-45B5-B8A6-3F8F313CED2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6A5298-C4D2-45B5-B8A6-3F8F313CED2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
