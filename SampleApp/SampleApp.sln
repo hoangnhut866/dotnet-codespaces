@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "null-conditional", "..\SD20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi9", "..\SD20301\Inheritance\Buoi9\Buoi9.csproj", "{5B6A5298-C4D2-45B5-B8A6-3F8F313CED2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "..\SD20301\Generic\GenericClass\GenericClass.csproj", "{D6AF9712-CD2C-429A-8D83-1EE440093A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethod", "..\SD20301\Generic\GenericMethod\GenericMethod\GenericMethod.csproj", "{C0720992-9754-4AEE-8911-FD261A1C4A16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{5B6A5298-C4D2-45B5-B8A6-3F8F313CED2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6A5298-C4D2-45B5-B8A6-3F8F313CED2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6A5298-C4D2-45B5-B8A6-3F8F313CED2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AF9712-CD2C-429A-8D83-1EE440093A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AF9712-CD2C-429A-8D83-1EE440093A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AF9712-CD2C-429A-8D83-1EE440093A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AF9712-CD2C-429A-8D83-1EE440093A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0720992-9754-4AEE-8911-FD261A1C4A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0720992-9754-4AEE-8911-FD261A1C4A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0720992-9754-4AEE-8911-FD261A1C4A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0720992-9754-4AEE-8911-FD261A1C4A16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
